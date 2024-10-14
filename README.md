@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Shawon986/Shawon986/blob/main/616-6162032_banner-programming-hd-png-download.png)
 <h1 align="center">Hi 👋, I'm Shawon</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-size_restricted.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611zf76h25yx7ty7zfgjf5r421d6ep8gmit827pocfv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawon986&label=Profile%20views&color=0e75b6&style=flat" alt="shawon986" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
