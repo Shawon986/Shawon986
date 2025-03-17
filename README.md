@@ -114,7 +114,7 @@
 ---
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=shawon986&icon=6&color=4)](https://visitcount.itsvg.in)
+  ![Visitor Count](https://profile-counter.glitch.me/{shawon986}/count.svg)
 
 </div>
 
