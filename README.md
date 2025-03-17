@@ -4,6 +4,13 @@
 
 </div>
 
+<div align="left">
+
+  ![GitHub Views](https://komarev.com/ghpvc/?username=shawon986)
+
+
+</div>
+
 # 💫 About Me: 
 <h2 align="left">Hi 👋, I'm Shawon</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611zf76h25yx7ty7zfgjf5r421d6ep8gmit827pocfv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -112,11 +119,7 @@
 </div>
 
 ---
-<div align="center">
 
-  ![Visitor Count](https://profile-counter.glitch.me/{shawon986}/count.svg)
-
-</div>
 
 
 
