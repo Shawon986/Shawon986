@@ -1,6 +1,6 @@
 <div align="center">
   
-![MasterHead]( https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
+![MasterHead](https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif)
 
 </div>
 
