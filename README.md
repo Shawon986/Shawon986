@@ -1,6 +1,6 @@
 <div align="center">
   
-![MasterHead](https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif)
+![MasterHead]()
 
 </div>
 
@@ -11,13 +11,17 @@
 
 </div>
 
+<div align="center">
+
 # 💫 About Me: 
-<h2 align="left">Hi 👋, I'm Shawon</h2>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=790b7611zf76h25yx7ty7zfgjf5r421d6ep8gmit827pocfv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<h2 align="center">Hi 👋, I'm Shawon</h2>
+
 🔭 I’m currently working on Backend<br>👯 I’m looking to collaborate on MERN Stack<br>🤝 I’m looking for help with AI Development<br>🌱 I’m currently learning Backend Technologies<br>💬 Talk to me with Tech Topics<br>⚡ I am also a Lead Guitarist 
 
+</div>
 
-<div align="left">
+
+<div align="center">
 
 ## 🌐 Socials:
 
