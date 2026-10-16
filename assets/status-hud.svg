@@ -3,7 +3,7 @@
     <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#33ff66"/>
       <stop offset="50%" stop-color="#00e5ff"/>
-      <stop offset="100%" stop-color="#ff5ec4"/>
+      <stop offset="100%" stop-color="#ff3131"/>
     </linearGradient>
   </defs>
   <rect width="760" height="330" rx="14" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
@@ -26,9 +26,9 @@
       <text x="720" y="186" text-anchor="end" fill="#b388ff">ONLINE</text>
     </g>
     <g>
-      <circle cx="52" cy="216" r="5" fill="#ff5ec4"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+      <circle cx="52" cy="216" r="5" fill="#ff3131"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.6s" repeatCount="indefinite"/></circle>
       <text x="70" y="222" fill="#9dffb0">EUREKA — polished website</text>
-      <text x="720" y="222" text-anchor="end" fill="#ff5ec4">ONLINE</text>
+      <text x="720" y="222" text-anchor="end" fill="#ff3131">ONLINE</text>
     </g>
     <g>
       <circle cx="52" cy="252" r="5" fill="#ffb300"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.8s" repeatCount="indefinite"/></circle>

@@ -4,17 +4,17 @@
   <text x="40" y="40" fill="#33ff66" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="1.7s" begin="0.0s" repeatCount="indefinite"/>カタカナ</text>
   <text x="120" y="58" fill="#00e5ff" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.0s" begin="0.25s" repeatCount="indefinite"/>01010</text>
   <text x="200" y="76" fill="#b388ff" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.3s" begin="0.5s" repeatCount="indefinite"/>111</text>
-  <text x="280" y="94" fill="#ff5ec4" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.6s" begin="0.75s" repeatCount="indefinite"/>マトリ</text>
+  <text x="280" y="94" fill="#ff3131" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.6s" begin="0.75s" repeatCount="indefinite"/>マトリ</text>
   <text x="360" y="40" fill="#ffb300" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.9s" begin="1.0s" repeatCount="indefinite"/>010</text>
   <text x="440" y="58" fill="#33ff66" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="1.7s" begin="1.25s" repeatCount="indefinite"/>クス</text>
   <text x="520" y="76" fill="#00e5ff" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.0s" begin="1.5s" repeatCount="indefinite"/>01010</text>
   <text x="600" y="94" fill="#b388ff" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.3s" begin="0.0s" repeatCount="indefinite"/>ネオン</text>
-  <text x="680" y="40" fill="#ff5ec4" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.6s" begin="0.25s" repeatCount="indefinite"/>011</text>
+  <text x="680" y="40" fill="#ff3131" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.6s" begin="0.25s" repeatCount="indefinite"/>011</text>
   <text x="760" y="58" fill="#ffb300" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.9s" begin="0.5s" repeatCount="indefinite"/>サイ</text>
   <text x="840" y="76" fill="#33ff66" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="1.7s" begin="0.75s" repeatCount="indefinite"/>0101</text>
   <text x="920" y="94" fill="#00e5ff" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.0s" begin="1.0s" repeatCount="indefinite"/>バー</text>
   <text x="1000" y="40" fill="#b388ff" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.3s" begin="1.25s" repeatCount="indefinite"/>010</text>
-  <text x="1080" y="58" fill="#ff5ec4" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.6s" begin="1.5s" repeatCount="indefinite"/>0110</text>
+  <text x="1080" y="58" fill="#ff3131" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.6s" begin="1.5s" repeatCount="indefinite"/>0110</text>
   <text x="1160" y="76" fill="#ffb300" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -90" dur="2.9s" begin="0.0s" repeatCount="indefinite"/>ミライ</text>
   </g>
   <rect x="150" y="44" width="900" height="2" fill="#1d5c2a"/>

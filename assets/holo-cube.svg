@@ -4,7 +4,7 @@
     <rect x="80" y="80" width="140" height="140" fill="none" stroke="#00e5ff" stroke-width="2">
       <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="14s" repeatCount="indefinite"/>
     </rect>
-    <rect x="105" y="105" width="90" height="90" fill="none" stroke="#ff5ec4" stroke-width="1.5">
+    <rect x="105" y="105" width="90" height="90" fill="none" stroke="#ff3131" stroke-width="1.5">
       <animateTransform attributeName="transform" type="rotate" from="360 150 150" to="0 150 150" dur="10s" repeatCount="indefinite"/>
     </rect>
     <rect x="125" y="125" width="50" height="50" fill="none" stroke="#b388ff" stroke-width="1.5">
