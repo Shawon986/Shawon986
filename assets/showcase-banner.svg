@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#33ff66">
+        <animate attributeName="stop-color" values="#33ff66;#00e5ff;#b388ff;#33ff66" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00e5ff">
+        <animate attributeName="stop-color" values="#00e5ff;#b388ff;#33ff66;#00e5ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" rx="16" fill="#050a07"/>
+  <rect width="1200" height="110" rx="16" fill="none" stroke="#1d5c2a" stroke-width="2"/>
+  <text x="600" y="58" font-family="monospace" font-size="42" font-weight="bold" fill="url(#g1)" text-anchor="middle" letter-spacing="6">◤ PROJECT SHOWCASE ◢</text>
+  <text x="600" y="92" font-family="monospace" font-size="17" fill="#2e7d3a" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>// building the future, one repo at a time</text>
+</svg>
