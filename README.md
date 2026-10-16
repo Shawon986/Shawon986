@@ -3,6 +3,13 @@
 <img src="https://github.com/Shawon986/Shawon986/blob/main/drew-beamer-Vc1pJfvoQvY-unsplash.jpg" alt="MasterHead" width="100%" height="230px">
 
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/glitch-title.svg" alt="Glitch Title" width="82%"/>
+
+</div>
+
+
 </div>
 
 <div align="left">
@@ -41,6 +48,13 @@
 <img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/showcase-banner.svg" alt="Project Showcase" width="90%"/>
 
 <img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/hacker-terminal.svg" alt="Hacker Terminal" width="82%"/>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/keylogger-ticker.svg" alt="Keylogger Ticker" width="80%"/>
+
+</div>
 
 </div>
 
@@ -189,7 +203,14 @@
 
 <div a<div align="center">
 
-<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/end-card.svg" alt="End of Transmission" width="86%"/>
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/holo-cube.svg" alt="Holo Cube" width="46%"/>
+
+</div>
+
+
+end-card.svg" alt="End of Transmission" width="86%"/>
 
 </div>
 

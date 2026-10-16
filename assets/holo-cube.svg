@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" rx="16" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
+  <g>
+    <rect x="80" y="80" width="140" height="140" fill="none" stroke="#00e5ff" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="105" y="105" width="90" height="90" fill="none" stroke="#ff5ec4" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="360 150 150" to="0 150 150" dur="10s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="125" y="125" width="50" height="50" fill="none" stroke="#b388ff" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="150" cy="150" r="5" fill="#ffb300"><animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="150" r="30" fill="none" stroke="#33ff66" stroke-width="1" stroke-dasharray="4 8">
+      <animateTransform attributeName="transform" type="rotate" from="360 150 150" to="0 150 150" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="150" y="270" font-family="monospace" font-size="12" fill="#2e7d3a" text-anchor="middle">HOLO.CORE :: spinning since 2026</text>
+</svg>

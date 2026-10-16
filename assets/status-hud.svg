@@ -1,36 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#33ff66"/>
+      <stop offset="50%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#ff5ec4"/>
+    </linearGradient>
+  </defs>
   <rect width="760" height="330" rx="14" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
-  <text x="30" y="44" font-family="monospace" font-size="22" fill="#33ff66" font-weight="bold">ACHIEVEMENTS // SYSTEM STATUS</text>
+  <text x="30" y="44" font-family="monospace" font-size="22" fill="url(#hg)" font-weight="bold">ACHIEVEMENTS // SYSTEM STATUS</text>
   <text x="30" y="70" font-family="monospace" font-size="14" fill="#2e7d3a">live uptime feed — self-hosted, always online</text>
-  <g font-family="monospace" font-size="17" fill="#9dffb0">
+  <g font-family="monospace" font-size="17">
     <g>
       <circle cx="52" cy="108" r="5" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.0s" repeatCount="indefinite"/></circle>
-      <text x="70" y="114">AI Hub — multi-provider gateway</text>
+      <text x="70" y="114" fill="#9dffb0">AI Hub — multi-provider gateway</text>
       <text x="720" y="114" text-anchor="end" fill="#33ff66">ONLINE</text>
     </g>
     <g>
-      <circle cx="52" cy="144" r="5" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.2s" repeatCount="indefinite"/></circle>
-      <text x="70" y="150">Qiyuan T1 Robotics — robot platform</text>
-      <text x="720" y="150" text-anchor="end" fill="#33ff66">ONLINE</text>
+      <circle cx="52" cy="144" r="5" fill="#00e5ff"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.2s" repeatCount="indefinite"/></circle>
+      <text x="70" y="150" fill="#9dffb0">Qiyuan T1 Robotics — robot platform</text>
+      <text x="720" y="150" text-anchor="end" fill="#00e5ff">ONLINE</text>
     </g>
     <g>
-      <circle cx="52" cy="180" r="5" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.4s" repeatCount="indefinite"/></circle>
-      <text x="70" y="186">LearnHub — e-learning demo</text>
-      <text x="720" y="186" text-anchor="end" fill="#33ff66">ONLINE</text>
+      <circle cx="52" cy="180" r="5" fill="#b388ff"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <text x="70" y="186" fill="#9dffb0">LearnHub — e-learning demo</text>
+      <text x="720" y="186" text-anchor="end" fill="#b388ff">ONLINE</text>
     </g>
     <g>
-      <circle cx="52" cy="216" r="5" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.6s" repeatCount="indefinite"/></circle>
-      <text x="70" y="222">EUREKA — polished website</text>
-      <text x="720" y="222" text-anchor="end" fill="#33ff66">ONLINE</text>
+      <circle cx="52" cy="216" r="5" fill="#ff5ec4"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+      <text x="70" y="222" fill="#9dffb0">EUREKA — polished website</text>
+      <text x="720" y="222" text-anchor="end" fill="#ff5ec4">ONLINE</text>
     </g>
     <g>
-      <circle cx="52" cy="252" r="5" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.8s" repeatCount="indefinite"/></circle>
-      <text x="70" y="258">Photos &amp; Videos Generator</text>
-      <text x="720" y="258" text-anchor="end" fill="#33ff66">ONLINE</text>
+      <circle cx="52" cy="252" r="5" fill="#ffb300"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <text x="70" y="258" fill="#9dffb0">Photos &amp; Videos Generator</text>
+      <text x="720" y="258" text-anchor="end" fill="#ffb300">ONLINE</text>
     </g>
     <g>
       <circle cx="52" cy="288" r="5" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" begin="1.0s" repeatCount="indefinite"/></circle>
-      <text x="70" y="294">Realtime Flight Tracker</text>
+      <text x="70" y="294" fill="#9dffb0">Realtime Flight Tracker</text>
       <text x="720" y="294" text-anchor="end" fill="#33ff66">ONLINE</text>
     </g>
   </g>

@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
   <defs>
     <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#33ff66" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#33ff66" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect width="760" height="300" rx="14" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
-  <text x="30" y="44" font-family="monospace" font-size="22" fill="#33ff66" font-weight="bold">SIGNAL SCANNER</text>
+  <text x="30" y="44" font-family="monospace" font-size="22" fill="#00e5ff" font-weight="bold">SIGNAL SCANNER</text>
   <text x="30" y="68" font-family="monospace" font-size="13" fill="#2e7d3a">scanning for deployed projects...</text>
   <g>
-    <circle cx="210" cy="185" r="95" fill="none" stroke="#123a1c" stroke-width="1.5"/>
-    <circle cx="210" cy="185" r="65" fill="none" stroke="#123a1c" stroke-width="1"/>
-    <circle cx="210" cy="185" r="35" fill="none" stroke="#123a1c" stroke-width="1"/>
+    <circle cx="210" cy="185" r="95" fill="none" stroke="#0f2a33" stroke-width="1.5"/>
+    <circle cx="210" cy="185" r="65" fill="none" stroke="#0f2a33" stroke-width="1"/>
+    <circle cx="210" cy="185" r="35" fill="none" stroke="#0f2a33" stroke-width="1"/>
     <path d="M210 185 L210 90 A95 95 0 0 1 300 115 Z" fill="url(#sweep)">
       <animateTransform attributeName="transform" type="rotate" from="0 210 185" to="360 210 185" dur="4s" repeatCount="indefinite"/>
     </path>

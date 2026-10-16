@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="64" viewBox="0 0 760 64">
+  <rect width="760" height="64" rx="10" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
+  <defs><clipPath id="tc"><rect x="14" y="10" width="732" height="44" rx="6"/></clipPath></defs>
+  <g clip-path="url(#tc)">
+    <g font-family="monospace" font-size="17">
+      <text x="760" y="40" fill="#33ff66">>> DECRYPTING MAINFRAME...</text>
+      <text x="1160" y="40" fill="#00e5ff">>> 6 SYSTEMS ONLINE</text>
+      <text x="1480" y="40" fill="#b388ff">>> PING 0xDEADBEEF :: OK</text>
+      <text x="1920" y="40" fill="#ff5ec4">>> NEURAL LINK STABLE</text>
+      <text x="2280" y="40" fill="#ffb300">>> ACCESS LEVEL: ROOT</text>
+      <text x="2580" y="40" fill="#33ff66">>> DECRYPTING MAINFRAME...</text>
+      <text x="2980" y="40" fill="#00e5ff">>> 6 SYSTEMS ONLINE</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1900 0" dur="16s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
