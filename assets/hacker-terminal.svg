@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="340" viewBox="0 0 820 340">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="372" viewBox="0 0 820 372">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#071207"/>
@@ -12,21 +12,22 @@
       <stop offset="100%" stop-color="#33ff66" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="820" height="340" rx="14" fill="url(#bg)" stroke="#1d5c2a" stroke-width="2"/>
-  <rect width="820" height="340" rx="14" fill="url(#scan)"/>
+  <rect width="820" height="372" rx="14" fill="url(#bg)" stroke="#1d5c2a" stroke-width="2"/>
+  <rect width="820" height="372" rx="14" fill="url(#scan)"/>
   <circle cx="30" cy="26" r="8" fill="#ff5f57"/>
   <circle cx="56" cy="26" r="8" fill="#febc2e"/>
   <circle cx="82" cy="26" r="8" fill="#28c840"/>
   <text x="700" y="32" font-family="monospace" font-size="15" fill="#2e7d3a" text-anchor="end">shawon@cyber:~</text>
   <g font-family="monospace" font-size="19" fill="#33ff66">
-    <text x="34" y="86" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08;0.14;1" dur="11s" repeatCount="indefinite"/>$ ./showcase.sh --launch</text>
-    <text x="34" y="122" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.16;0.22;1" dur="11s" repeatCount="indefinite"/>&gt; initializing neural matrix ......... OK</text>
-    <text x="34" y="158" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24;0.30;1" dur="11s" repeatCount="indefinite"/>[ AI HUB ]      multi-provider AI gateway .... ONLINE</text>
-    <text x="34" y="190" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32;0.38;1" dur="11s" repeatCount="indefinite"/>[ ROBOTICS ]    Qiyuan T1 platform ........... ONLINE</text>
-    <text x="34" y="222" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.40;0.46;1" dur="11s" repeatCount="indefinite"/>[ LEARNHUB ]    e-learning demo .............. ONLINE</text>
-    <text x="34" y="254" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48;0.54;1" dur="11s" repeatCount="indefinite"/>[ EUREKA ]      polished website ............. ONLINE</text>
-    <text x="34" y="286" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56;0.62;1" dur="11s" repeatCount="indefinite"/>[ FLIGHT ]      realtime flight tracker ....... ONLINE</text>
+    <text x="34" y="84" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07;0.12;1" dur="12s" repeatCount="indefinite"/>$ ./showcase.sh --launch</text>
+    <text x="34" y="118" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14;0.19;1" dur="12s" repeatCount="indefinite"/>&gt; initializing neural matrix ......... OK</text>
+    <text x="34" y="152" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21;0.26;1" dur="12s" repeatCount="indefinite"/>[ AI HUB ]       multi-provider AI gateway ... ONLINE</text>
+    <text x="34" y="184" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.28;0.33;1" dur="12s" repeatCount="indefinite"/>[ ROBOTICS ]     Qiyuan T1 robot project ..... ONLINE</text>
+    <text x="34" y="216" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35;0.40;1" dur="12s" repeatCount="indefinite"/>[ LEARNHUB ]     e-learning demo ............. ONLINE</text>
+    <text x="34" y="248" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.42;0.47;1" dur="12s" repeatCount="indefinite"/>[ EUREKA ]       polished website ............ ONLINE</text>
+    <text x="34" y="280" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.49;0.54;1" dur="12s" repeatCount="indefinite"/>[ PHOTOS ]       photos &amp; videos generator .... ONLINE</text>
+    <text x="34" y="312" opacity="0" fill="#9dffb0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56;0.61;1" dur="12s" repeatCount="indefinite"/>[ FLIGHT ]       realtime flight tracker ...... ONLINE</text>
   </g>
-  <text x="34" y="318" font-family="monospace" font-size="19" fill="#33ff66" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.70;0.76;1" dur="11s" repeatCount="indefinite"/>$ █</text>
-  <rect x="70" y="301" width="14" height="22" fill="#33ff66"><animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.3;0.3;0.6;0.6;1" dur="1.2s" repeatCount="indefinite"/></rect>
+  <text x="34" y="348" font-family="monospace" font-size="19" fill="#33ff66" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68;0.73;1" dur="12s" repeatCount="indefinite"/>$ █</text>
+  <rect x="70" y="331" width="14" height="22" fill="#33ff66"><animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.3;0.3;0.6;0.6;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </svg>
