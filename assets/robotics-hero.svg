@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <defs>
+    <linearGradient id="rb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#071207"/>
+      <stop offset="100%" stop-color="#030803"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#33ff66"><animate attributeName="stop-color" values="#33ff66;#00e5ff;#ff3131;#ffb300;#33ff66" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#ff3131;#ffb300;#33ff66;#00e5ff" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00e5ff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="16" fill="url(#rb)" stroke="#1d5c2a" stroke-width="2"/>
+  <rect x="0" y="0" width="1200" height="6" fill="url(#beam)"><animate attributeName="y" values="0;244;0" dur="6s" repeatCount="indefinite"/></rect>
+
+  <text x="600" y="54" font-family="monospace" font-size="34" font-weight="bold" fill="url(#tg)" text-anchor="middle">◤ ROBOTICS LAB // ACTIVE ◢</text>
+  <text x="600" y="80" font-family="monospace" font-size="14" fill="#2e7d3a" text-anchor="middle">building the future of motion — Qiyuan T1 division</text>
+
+  <!-- robotic arm work cell -->
+  <rect x="270" y="200" width="60" height="48" fill="#0a140b" stroke="#1d5c2a" stroke-width="2"/>
+  <g>
+    <circle cx="300" cy="198" r="10" fill="#0a140b" stroke="#33ff66" stroke-width="2"/>
+    <g transform="translate(300,198)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-55;55;-55" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/>
+        <rect x="0" y="-6" width="92" height="12" rx="5" fill="#0f2a14" stroke="#33ff66" stroke-width="1.5"/>
+        <circle cx="0" cy="0" r="6" fill="#33ff66"/>
+        <g transform="translate(92,0)">
+          <g>
+            <animateTransform attributeName="transform" type="rotate" values="-45;45;-45" keyTimes="0;0.5;1" dur="2.5s" repeatCount="indefinite"/>
+            <rect x="0" y="-5" width="78" height="10" rx="5" fill="#0f2a14" stroke="#00e5ff" stroke-width="1.5"/>
+            <circle cx="0" cy="0" r="5" fill="#00e5ff"/>
+            <g transform="translate(78,0)">
+              <circle cx="0" cy="0" r="7" fill="none" stroke="#ffb300" stroke-width="2"/>
+              <circle cx="0" cy="0" r="3" fill="#ffb300"><animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/></circle>
+              <line x1="7" y1="-6" x2="7" y2="6" stroke="#ffb300" stroke-width="2"/>
+              <line x1="12" y1="-4" x2="12" y2="4" stroke="#ffb300" stroke-width="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text x="300" y="238" font-family="monospace" font-size="11" fill="#2e7d3a" text-anchor="middle">ARM.01 :: SERVO LIVE</text>
+
+  <!-- gear train -->
+  <g transform="translate(800,160)">
+    <circle r="46" stroke="#00e5ff" stroke-width="12" stroke-dasharray="14 9" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 800 160" to="360 800 160" dur="10s" repeatCount="indefinite"/></circle>
+    <circle r="20" stroke="#b388ff" stroke-width="12" stroke-dasharray="10 7" fill="none"><animateTransform attributeName="transform" type="rotate" from="360 800 160" to="0 800 160" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="5" fill="#00e5ff"/>
+  </g>
+  <g transform="translate(950,120)">
+    <circle r="34" stroke="#ffb300" stroke-width="10" stroke-dasharray="11 8" fill="none"><animateTransform attributeName="transform" type="rotate" from="360 950 120" to="0 950 120" dur="6s" repeatCount="indefinite"/></circle>
+    <circle r="12" stroke="#33ff66" stroke-width="10" stroke-dasharray="8 6" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 950 120" to="360 950 120" dur="4s" repeatCount="indefinite"/></circle>
+    <circle r="4" fill="#ffb300"/>
+  </g>
+  <g transform="translate(1090,180)">
+    <circle r="26" stroke="#ff3131" stroke-width="9" stroke-dasharray="9 7" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 1090 180" to="360 1090 180" dur="5s" repeatCount="indefinite"/></circle>
+    <circle r="4" fill="#ff3131"/>
+  </g>
+
+  <!-- circuit trace with traveling pulse -->
+  <g fill="none" stroke="#123a1c" stroke-width="2">
+    <path id="ckt" d="M700,90 H1120 V150 H940 V212 H1180"/>
+    <path d="M700,90 H1120 V150 H940 V212 H1180" pathLength="1" stroke="#00e5ff" stroke-width="2" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;0;0" keyTimes="0;0.8;1" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <circle r="4.5" fill="#ffb300">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M700,90 H1120 V150 H940 V212 H1180"/>
+  </circle>
+
+  <!-- status LEDs -->
+  <g font-family="monospace" font-size="11" text-anchor="middle">
+    <circle cx="1010" cy="238" r="4" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+    <text x="1010" y="226" fill="#2e7d3a">SERVO</text>
+    <circle cx="1090" cy="238" r="4" fill="#00e5ff"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <text x="1090" y="226" fill="#2e7d3a">GYRO</text>
+    <circle cx="1170" cy="238" r="4" fill="#ffb300"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <text x="1170" y="226" fill="#2e7d3a">VISION</text>
+  </g>
+</svg>

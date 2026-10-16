@@ -1,4 +1,11 @@
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/robotics-hero.svg" alt="Robotics Lab" width="100%"/>
+
+</div>
+
+
+<div align="center">
   
 <img src="https://github.com/Shawon986/Shawon986/blob/main/drew-beamer-Vc1pJfvoQvY-unsplash.jpg" alt="MasterHead" width="100%" height="230px">
 
