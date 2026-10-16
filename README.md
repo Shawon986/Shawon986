@@ -24,6 +24,13 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/about-card.svg" alt="Identity Card" width="80%"/>
+
+</div>
+
+
+<div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=600&color=33FF66&center=true&vCenter=true&width=640&lines=root%40shawon%3A~%24+whoami;AI+API+Gateway+Builder;Full-Stack+Developer;Robotics+Explorer;hacking+the+future...%E2%96%88" alt="Typing SVG" />
 
 </div>
@@ -116,6 +123,15 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![ROS](https://img.shields.io/badge/ROS-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 </div>
 
