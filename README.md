@@ -24,6 +24,25 @@
 
 <div align="center">
 
+## 🚀 Featured Projects:
+
+<a href="https://github.com/Shawon986/AI-Hub-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawon986&repo=AI-Hub-Project&theme=neon" />
+</a>
+
+**AI Hub** — multi-provider AI API gateway: one key, one endpoint for Claude, DeepSeek and 40+ AI models, with user billing, Playground and Claude Code integration.
+
+<!-- Add more pinned-project cards here, e.g.:
+<a href="https://github.com/Shawon986/REPO-NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawon986&repo=REPO-NAME&theme=neon" />
+</a>
+-->
+
+</div>
+
+
+<div align="center">
+
 ## 🌐 Socials:
 
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shawon0728) 
@@ -45,6 +64,15 @@
 </div>
 
 
+
+
+<div align="center">
+
+## 🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shawon986&theme=radical&row=1&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 
 <div align="center">
