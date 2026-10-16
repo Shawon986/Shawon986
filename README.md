@@ -48,6 +48,10 @@
 <tr><td align="center" width="52">✈️</td><td><b>Realtime Flight Tracker</b><br/><sub>Live flight tracking app</sub></td><td><code>JS</code> <code>API</code></td><td><a href="https://github.com/Shawon986/Real-time-flight-tracker"><img src="https://img.shields.io/badge/Repo-%23181717?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
 </table>
 
+</div><div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/divider.svg" width="70%"/>
+
 </div>
 
 
@@ -78,9 +82,13 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies:
+## 🏆 Achievements // System Status:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shawon986&theme=radical&row=1&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/status-hud.svg" alt="Status HUD" width="86%"/>
+
+</div><div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/divider.svg" width="70%"/>
 
 </div>
 
@@ -133,13 +141,15 @@
 
 <div align="center">
 
-## ⚡ Contribution Graph:
+## ⚡ Activity Matrix:
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shawon986&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/activity-matrix.svg" alt="Activity Matrix" width="88%"/>
+
+</div><div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/divider.svg" width="70%"/>
 
 </div>
-
----
 
 
 <div align="center">
@@ -154,18 +164,16 @@
 ---
 
 
-<div align="center">
-  
-### 🔝 Top Contributed Repo
+<div a<div align="center">
 
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=shawon986&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/end-card.svg" alt="End of Transmission" width="86%"/>
 
 </div>
 
 ---
 
 
+---
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

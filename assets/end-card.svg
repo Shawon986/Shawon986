@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="130" viewBox="0 0 760 130">
+  <defs>
+    <linearGradient id="eg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#33ff66"><animate attributeName="stop-color" values="#33ff66;#00e5ff;#33ff66" dur="4s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#00e5ff"><animate attributeName="stop-color" values="#00e5ff;#33ff66;#00e5ff" dur="4s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="130" rx="14" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
+  <text x="380" y="52" font-family="monospace" font-size="24" font-weight="bold" fill="url(#eg)" text-anchor="middle">▚▚ END OF TRANSMISSION ▚▚</text>
+  <text x="380" y="88" font-family="monospace" font-size="15" fill="#9dffb0" text-anchor="middle">thanks for visiting // stay cyber</text>
+  <text x="380" y="112" font-family="monospace" font-size="13" fill="#2e7d3a" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>signal lost... reconnect?</text>
+</svg>
