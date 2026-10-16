@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320">
+  <defs>
+    <linearGradient id="wb1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#33ff66"/><stop offset="100%" stop-color="#00e5ff"/></linearGradient>
+    <linearGradient id="wb2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00e5ff"/><stop offset="100%" stop-color="#b388ff"/></linearGradient>
+    <linearGradient id="wb3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#b388ff"/><stop offset="100%" stop-color="#ff3131"/></linearGradient>
+    <linearGradient id="wb4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ff3131"/><stop offset="100%" stop-color="#ffb300"/></linearGradient>
+  </defs>
+  <rect width="760" height="320" rx="14" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
+  <text x="30" y="44" font-family="monospace" font-size="22" font-weight="bold" fill="#33ff66">PROJECT ENERGY // LIVE FEED</text>
+  <text x="30" y="68" font-family="monospace" font-size="13" fill="#2e7d3a">stylized activity index per project</text>
+  <g font-family="monospace" font-size="14" fill="#9dffb0">
+    <text x="30" y="104">AI Hub</text>
+    <rect x="150" y="94" width="580" height="12" fill="#0f2a14"/>
+    <rect x="150" y="94" width="0" height="12" fill="url(#wb1)"><animate attributeName="width" values="0;580;580" keyTimes="0;0.65;1" dur="7s" begin="0.0s" repeatCount="indefinite"/></rect>
+    <text x="30" y="144">Qiyuan T1 Robotics</text>
+    <rect x="150" y="134" width="580" height="12" fill="#0f2a14"/>
+    <rect x="150" y="134" width="0" height="12" fill="url(#wb2)"><animate attributeName="width" values="0;480;480" keyTimes="0;0.65;1" dur="7s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <text x="30" y="184">LearnHub</text>
+    <rect x="150" y="174" width="580" height="12" fill="#0f2a14"/>
+    <rect x="150" y="174" width="0" height="12" fill="url(#wb3)"><animate attributeName="width" values="0;420;420" keyTimes="0;0.65;1" dur="7s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <text x="30" y="224">EUREKA</text>
+    <rect x="150" y="214" width="580" height="12" fill="#0f2a14"/>
+    <rect x="150" y="214" width="0" height="12" fill="url(#wb4)"><animate attributeName="width" values="0;390;390" keyTimes="0;0.65;1" dur="7s" begin="0.9s" repeatCount="indefinite"/></rect>
+    <text x="30" y="264">Photos &amp; Videos Generator</text>
+    <rect x="150" y="254" width="580" height="12" fill="#0f2a14"/>
+    <rect x="150" y="254" width="0" height="12" fill="url(#wb1)"><animate attributeName="width" values="0;350;350" keyTimes="0;0.65;1" dur="7s" begin="1.2s" repeatCount="indefinite"/></rect>
+    <text x="30" y="304">Realtime Flight Tracker</text>
+    <rect x="150" y="294" width="580" height="12" fill="#0f2a14"/>
+    <rect x="150" y="294" width="0" height="12" fill="url(#wb2)"><animate attributeName="width" values="0;330;330" keyTimes="0;0.65;1" dur="7s" begin="1.5s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

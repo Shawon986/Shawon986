@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="340" viewBox="0 0 380 340">
+  <defs>
+    <linearGradient id="sr" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#33ff66" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+  <rect width="380" height="340" rx="14" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
+  <text x="190" y="38" font-family="monospace" font-size="19" font-weight="bold" fill="#33ff66" text-anchor="middle">SKILL RADAR</text>
+  <text x="190" y="58" font-family="monospace" font-size="12" fill="#2e7d3a" text-anchor="middle">scanning capabilities...</text>
+  <g stroke="#123a1c" fill="none">
+    <circle cx="190" cy="200" r="95"/><circle cx="190" cy="200" r="70"/><circle cx="190" cy="200" r="45"/><circle cx="190" cy="200" r="20"/>
+    <line x1="190" y1="105" x2="190" y2="295"/>
+    <line x1="100" y1="170" x2="280" y2="230"/>
+    <line x1="118" y1="247" x2="262" y2="153"/>
+  </g>
+  <polygon points="190,110 262,158 250,238 130,238 118,158" fill="url(#sr)" stroke="#33ff66" stroke-width="1.5">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </polygon>
+  <g>
+    <line x1="190" y1="200" x2="190" y2="105" stroke="#ffb300" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0 190 200" to="360 190 200" dur="6s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  <g font-family="monospace" font-size="13" fill="#9dffb0" text-anchor="middle">
+    <text x="190" y="96">BACKEND</text>
+    <text x="288" y="166">AI/ML</text>
+    <text x="262" y="280">WEB</text>
+    <text x="118" y="280">ROBOTICS</text>
+    <text x="92" y="166">MUSIC</text>
+  </g>
+  <circle cx="190" cy="200" r="3" fill="#33ff66"/>
+</svg>
