@@ -201,16 +201,15 @@
 ---
 
 
-<div a<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/<div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/holo-cube.svg" alt="Holo Cube" width="46%"/>
 
 </div>
 
+<div align="center">
 
-end-card.svg" alt="End of Transmission" width="86%"/>
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/end-card.svg" alt="End of Transmission" width="86%"/>
 
 </div>
 
