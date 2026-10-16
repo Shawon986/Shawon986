@@ -1,8 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
   <defs>
     <linearGradient id="rb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#071207"/>
-      <stop offset="100%" stop-color="#030803"/>
+      <stop offset="0%" stop-color="#0a120c"/>
+      <stop offset="100%" stop-color="#040904"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#57636f"/>
+      <stop offset="45%" stop-color="#252d36"/>
+      <stop offset="100%" stop-color="#3b4752"/>
+    </linearGradient>
+    <linearGradient id="steel2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#45525e"/>
+      <stop offset="100%" stop-color="#1a222a"/>
     </linearGradient>
     <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#33ff66"><animate attributeName="stop-color" values="#33ff66;#00e5ff;#ff3131;#ffb300;#33ff66" dur="8s" repeatCount="indefinite"/></stop>
@@ -10,36 +19,67 @@
     </linearGradient>
     <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#00e5ff" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#00e5ff" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
     </linearGradient>
+    <pattern id="hazard" width="18" height="18" patternTransform="rotate(45)">
+      <rect width="18" height="18" fill="#1a2129"/>
+      <rect width="9" height="18" fill="#ffb300"/>
+    </pattern>
   </defs>
   <rect width="1200" height="250" rx="16" fill="url(#rb)" stroke="#1d5c2a" stroke-width="2"/>
-  <rect x="0" y="0" width="1200" height="6" fill="url(#beam)"><animate attributeName="y" values="0;244;0" dur="6s" repeatCount="indefinite"/></rect>
+  <line x1="20" y1="246" x2="1180" y2="246" stroke="#0f2413" stroke-width="2"/>
+  <rect x="0" y="0" width="1200" height="5" fill="url(#beam)"><animate attributeName="y" values="0;245;0" dur="6s" repeatCount="indefinite"/></rect>
 
-  <text x="600" y="54" font-family="monospace" font-size="34" font-weight="bold" fill="url(#tg)" text-anchor="middle">◤ ROBOTICS LAB // ACTIVE ◢</text>
-  <text x="600" y="80" font-family="monospace" font-size="14" fill="#2e7d3a" text-anchor="middle">building the future of motion — Qiyuan T1 division</text>
+  <text x="600" y="52" font-family="monospace" font-size="34" font-weight="bold" fill="url(#tg)" text-anchor="middle">◤ ROBOTICS LAB // ACTIVE ◢</text>
+  <text x="600" y="78" font-family="monospace" font-size="14" fill="#2e7d3a" text-anchor="middle">building the future of motion - Qiyuan T1 division</text>
 
-  <!-- robotic arm work cell -->
-  <rect x="270" y="200" width="60" height="48" fill="#0a140b" stroke="#1d5c2a" stroke-width="2"/>
+  <!-- robot nameplate -->
   <g>
-    <circle cx="300" cy="198" r="10" fill="#0a140b" stroke="#33ff66" stroke-width="2"/>
-    <g transform="translate(300,198)">
-      <g>
-        <animateTransform attributeName="transform" type="rotate" values="-55;55;-55" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/>
-        <rect x="0" y="-6" width="92" height="12" rx="5" fill="#0f2a14" stroke="#33ff66" stroke-width="1.5"/>
-        <circle cx="0" cy="0" r="6" fill="#33ff66"/>
-        <g transform="translate(92,0)">
-          <g>
-            <animateTransform attributeName="transform" type="rotate" values="-45;45;-45" keyTimes="0;0.5;1" dur="2.5s" repeatCount="indefinite"/>
-            <rect x="0" y="-5" width="78" height="10" rx="5" fill="#0f2a14" stroke="#00e5ff" stroke-width="1.5"/>
-            <circle cx="0" cy="0" r="5" fill="#00e5ff"/>
-            <g transform="translate(78,0)">
-              <circle cx="0" cy="0" r="7" fill="none" stroke="#ffb300" stroke-width="2"/>
-              <circle cx="0" cy="0" r="3" fill="#ffb300"><animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/></circle>
-              <line x1="7" y1="-6" x2="7" y2="6" stroke="#ffb300" stroke-width="2"/>
-              <line x1="12" y1="-4" x2="12" y2="4" stroke="#ffb300" stroke-width="2"/>
+    <rect x="950" y="16" width="230" height="56" rx="8" fill="#050a07" stroke="#ffb300" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="1065" y="42" font-family="monospace" font-size="22" font-weight="bold" fill="#ffb300" text-anchor="middle">QIYUAN T1</text>
+    <text x="1065" y="62" font-family="monospace" font-size="12" fill="#00e5ff" text-anchor="middle" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="3.5s" repeatCount="indefinite"/>by PRIMEBOT</text>
+  </g>
+
+  <ellipse cx="300" cy="244" rx="86" ry="7" fill="#000000" opacity="0.45"/>
+  <rect x="272" y="196" width="56" height="48" fill="url(#steel2)" stroke="#10161c" stroke-width="2"/>
+  <rect x="272" y="226" width="56" height="18" fill="url(#hazard)"/>
+  <ellipse cx="300" cy="198" rx="28" ry="8" fill="#2b3540"/>
+  <circle cx="300" cy="196" r="13" fill="url(#steel)" stroke="#10161c" stroke-width="2"/>
+  <circle cx="300" cy="196" r="4" fill="#33ff66"/>
+
+  <g transform="translate(300,196)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-50;50;-50" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="6s" repeatCount="indefinite"/>
+      <polygon points="0,-9 96,-6 96,6 0,9" fill="url(#steel)" stroke="#10161c" stroke-width="1.5"/>
+      <line x1="0" y1="-8" x2="96" y2="-5" stroke="#8b9aa8" stroke-width="1.2" opacity="0.6"/>
+      <circle cx="0" cy="0" r="7" fill="url(#steel)" stroke="#10161c" stroke-width="1.5"/>
+      <circle cx="0" cy="0" r="2.5" fill="#00e5ff"/>
+      <rect x="14" y="10" width="42" height="5" rx="2" fill="#2b3540" stroke="#10161c" stroke-width="1"/>
+      <rect x="54" y="11" width="10" height="3" fill="#8b9aa8">
+        <animate attributeName="width" values="10;36;10" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(96,0)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="-38;38;-38" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="3s" repeatCount="indefinite"/>
+          <polygon points="0,-6 82,-4 82,4 0,6" fill="url(#steel2)" stroke="#10161c" stroke-width="1.5"/>
+          <line x1="0" y1="-5" x2="82" y2="-3.5" stroke="#8b9aa8" stroke-width="1.2" opacity="0.6"/>
+          <circle cx="0" cy="0" r="5.5" fill="url(#steel)" stroke="#10161c" stroke-width="1.5"/>
+          <g transform="translate(82,0)">
+            <circle cx="0" cy="0" r="6" fill="url(#steel)" stroke="#10161c" stroke-width="1.5"/>
+            <g>
+              <animateTransform attributeName="transform" type="rotate" values="-16;16;-16" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="1.6s" repeatCount="indefinite"/>
+              <polygon points="0,-2 26,-9 30,-3 30,1 26,1" fill="url(#steel)" stroke="#10161c" stroke-width="1.2"/>
+              <circle cx="29" cy="-4" r="1.6" fill="#ffb300"/>
             </g>
+            <g>
+              <animateTransform attributeName="transform" type="rotate" values="16;-16;16" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" dur="1.6s" repeatCount="indefinite"/>
+              <polygon points="0,2 26,1 30,-1 30,3 26,9" fill="url(#steel)" stroke="#10161c" stroke-width="1.2"/>
+              <circle cx="29" cy="4" r="1.6" fill="#ffb300"/>
+            </g>
+            <circle cx="0" cy="0" r="2.5" fill="#ff3131"/>
           </g>
         </g>
       </g>
@@ -47,34 +87,37 @@
   </g>
   <text x="300" y="238" font-family="monospace" font-size="11" fill="#2e7d3a" text-anchor="middle">ARM.01 :: SERVO LIVE</text>
 
-  <!-- gear train -->
-  <g transform="translate(800,160)">
-    <circle r="46" stroke="#00e5ff" stroke-width="12" stroke-dasharray="14 9" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 800 160" to="360 800 160" dur="10s" repeatCount="indefinite"/></circle>
-    <circle r="20" stroke="#b388ff" stroke-width="12" stroke-dasharray="10 7" fill="none"><animateTransform attributeName="transform" type="rotate" from="360 800 160" to="0 800 160" dur="7s" repeatCount="indefinite"/></circle>
-    <circle r="5" fill="#00e5ff"/>
+  <g>
+    <path d="M 844.0,155.0 L 835.9,163.9 L 839.0,175.4 L 827.7,179.5 L 825.0,191.2 L 813.1,189.6 L 805.3,198.7 L 795.5,191.7 L 784.4,196.1 L 779.0,185.5 L 767.1,184.2 L 767.2,172.2 L 757.3,165.5 L 763.0,155.0 L 757.3,144.5 L 767.2,137.8 L 767.1,125.8 L 779.0,124.5 L 784.4,113.9 L 795.5,118.3 L 805.3,111.3 L 813.1,120.4 L 825.0,118.8 L 827.7,130.5 L 839.0,134.6 L 835.9,146.1 Z M 814.1,155.0 L 813.6,151.4 L 812.2,148.0 L 810.0,145.0 L 807.0,142.8 L 803.6,141.4 L 800.0,140.9 L 796.4,141.4 L 793.0,142.8 L 790.0,145.0 L 787.8,148.0 L 786.4,151.4 L 785.9,155.0 L 786.4,158.6 L 787.8,162.0 L 790.0,165.0 L 793.0,167.2 L 796.4,168.6 L 800.0,169.1 L 803.6,168.6 L 807.0,167.2 L 810.0,165.0 L 812.2,162.0 L 813.6,158.6 Z" fill="url(#steel2)" stroke="#10161c" stroke-width="1.5" fill-rule="evenodd">
+      <animateTransform attributeName="transform" type="rotate" from="0 800 155" to="360 800 155" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="800" cy="155" r="7" fill="url(#steel)" stroke="#10161c" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" from="0 800 155" to="360 800 155" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="155" r="2" fill="#00e5ff"><animateTransform attributeName="transform" type="rotate" from="0 800 155" to="360 800 155" dur="12s" repeatCount="indefinite"/></circle>
   </g>
-  <g transform="translate(950,120)">
-    <circle r="34" stroke="#ffb300" stroke-width="10" stroke-dasharray="11 8" fill="none"><animateTransform attributeName="transform" type="rotate" from="360 950 120" to="0 950 120" dur="6s" repeatCount="indefinite"/></circle>
-    <circle r="12" stroke="#33ff66" stroke-width="10" stroke-dasharray="8 6" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 950 120" to="360 950 120" dur="4s" repeatCount="indefinite"/></circle>
-    <circle r="4" fill="#ffb300"/>
+  <g>
+    <path d="M 982.0,115.0 L 973.8,122.7 L 975.9,133.8 L 964.7,135.2 L 959.9,145.4 L 950.0,140.0 L 940.1,145.4 L 935.3,135.2 L 924.1,133.8 L 926.2,122.7 L 918.0,115.0 L 926.2,107.3 L 924.1,96.2 L 935.3,94.8 L 940.1,84.6 L 950.0,90.0 L 959.9,84.6 L 964.7,94.8 L 975.9,96.2 L 973.8,107.3 Z M 960.2,115.0 L 959.9,112.3 L 958.9,109.9 L 957.2,107.8 L 955.1,106.1 L 952.7,105.1 L 950.0,104.8 L 947.3,105.1 L 944.9,106.1 L 942.8,107.8 L 941.1,109.9 L 940.1,112.3 L 939.8,115.0 L 940.1,117.7 L 941.1,120.1 L 942.8,122.2 L 944.9,123.9 L 947.3,124.9 L 950.0,125.2 L 952.7,124.9 L 955.1,123.9 L 957.2,122.2 L 958.9,120.1 L 959.9,117.7 Z" fill="url(#steel)" stroke="#10161c" stroke-width="1.5" fill-rule="evenodd">
+      <animateTransform attributeName="transform" type="rotate" from="360 950 115" to="0 950 115" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="950" cy="115" r="5" fill="#2b3540" stroke="#10161c" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" from="360 950 115" to="0 950 115" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="115" r="1.6" fill="#ffb300"><animateTransform attributeName="transform" type="rotate" from="360 950 115" to="0 950 115" dur="8s" repeatCount="indefinite"/></circle>
   </g>
-  <g transform="translate(1090,180)">
-    <circle r="26" stroke="#ff3131" stroke-width="9" stroke-dasharray="9 7" fill="none"><animateTransform attributeName="transform" type="rotate" from="0 1090 180" to="360 1090 180" dur="5s" repeatCount="indefinite"/></circle>
-    <circle r="4" fill="#ff3131"/>
+  <g>
+    <path d="M 1114.0,178.0 L 1106.0,183.8 L 1108.4,193.4 L 1098.5,192.7 L 1094.2,201.6 L 1087.0,194.7 L 1078.0,198.8 L 1077.0,188.9 L 1067.4,186.2 L 1073.0,178.0 L 1067.4,169.8 L 1077.0,167.1 L 1078.0,157.2 L 1087.0,161.3 L 1094.2,154.4 L 1098.5,163.3 L 1108.4,162.6 L 1106.0,172.2 Z M 1097.7,178.0 L 1097.4,176.0 L 1096.7,174.2 L 1095.4,172.6 L 1093.8,171.3 L 1092.0,170.6 L 1090.0,170.3 L 1088.0,170.6 L 1086.2,171.3 L 1084.6,172.6 L 1083.3,174.2 L 1082.6,176.0 L 1082.3,178.0 L 1082.6,180.0 L 1083.3,181.8 L 1084.6,183.4 L 1086.2,184.7 L 1088.0,185.4 L 1090.0,185.7 L 1092.0,185.4 L 1093.8,184.7 L 1095.4,183.4 L 1096.7,181.8 L 1097.4,180.0 Z" fill="url(#steel2)" stroke="#10161c" stroke-width="1.5" fill-rule="evenodd">
+      <animateTransform attributeName="transform" type="rotate" from="0 1090 178" to="360 1090 178" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="1090" cy="178" r="4" fill="url(#steel)" stroke="#10161c" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" from="0 1090 178" to="360 1090 178" dur="6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- circuit trace with traveling pulse -->
-  <g fill="none" stroke="#123a1c" stroke-width="2">
-    <path id="ckt" d="M700,90 H1120 V150 H940 V212 H1180"/>
-    <path d="M700,90 H1120 V150 H940 V212 H1180" pathLength="1" stroke="#00e5ff" stroke-width="2" stroke-dasharray="1" stroke-dashoffset="1">
+  <g fill="none" stroke-width="2">
+    <path d="M700,88 H1120 V148 H940 V210 H1180" stroke="#123a1c"/>
+    <path d="M700,88 H1120 V148 H940 V210 H1180" pathLength="1" stroke="#00e5ff" stroke-dasharray="1" stroke-dashoffset="1">
       <animate attributeName="stroke-dashoffset" values="1;0;0" keyTimes="0;0.8;1" dur="6s" repeatCount="indefinite"/>
     </path>
   </g>
   <circle r="4.5" fill="#ffb300">
-    <animateMotion dur="6s" repeatCount="indefinite" path="M700,90 H1120 V150 H940 V212 H1180"/>
+    <animateMotion dur="6s" repeatCount="indefinite" path="M700,88 H1120 V148 H940 V210 H1180"/>
   </circle>
 
-  <!-- status LEDs -->
   <g font-family="monospace" font-size="11" text-anchor="middle">
     <circle cx="1010" cy="238" r="4" fill="#33ff66"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" begin="0.0s" repeatCount="indefinite"/></circle>
     <text x="1010" y="226" fill="#2e7d3a">SERVO</text>
