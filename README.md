@@ -24,19 +24,28 @@
 
 <div align="center">
 
-## 🚀 Featured Projects:
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=600&color=33FF66&center=true&vCenter=true&width=640&lines=root%40shawon%3A~%24+whoami;AI+API+Gateway+Builder;Full-Stack+Developer;Robotics+Explorer;hacking+the+future...%E2%96%88" alt="Typing SVG" />
 
-<a href="https://github.com/Shawon986/AI-Hub-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawon986&repo=AI-Hub-Project&theme=neon" />
-</a>
+</div>
 
-**AI Hub** — multi-provider AI API gateway: one key, one endpoint for Claude, DeepSeek and 40+ AI models, with user billing, Playground and Claude Code integration.
 
-<!-- Add more pinned-project cards here, e.g.:
-<a href="https://github.com/Shawon986/REPO-NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shawon986&repo=REPO-NAME&theme=neon" />
-</a>
--->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/showcase-banner.svg" alt="Project Showcase" width="90%"/>
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/hacker-terminal.svg" alt="Hacker Terminal" width="82%"/>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr><td align="center" width="52">🤖</td><td><b>Qiyuan T1 Robotics</b><br/><sub>Robotics platform — T1 robot project</sub></td><td><code>ROS</code> <code>C++</code> <code>Python</code></td><td><a href="https://github.com/Shawon986/Qiyuan-T1-Robotics"><img src="https://img.shields.io/badge/Repo-%23181717?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td align="center" width="52">🧠</td><td><b>AI Hub</b><br/><sub>Multi-provider AI API gateway — Claude, DeepSeek &amp; 40+ models, billing &amp; Playground</sub></td><td><code>Go</code> <code>React</code> <code>MySQL</code></td><td><a href="https://github.com/Shawon986/AI-Hub-Project"><img src="https://img.shields.io/badge/Repo-%23181717?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td align="center" width="52">🎓</td><td><b>LearnHub</b><br/><sub>E-learning demo platform</sub></td><td><code>MERN</code></td><td><a href="https://github.com/Shawon986/LearnHub"><img src="https://img.shields.io/badge/Repo-%23181717?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td align="center" width="52">🛍️</td><td><b>EUREKA (Polished)</b><br/><sub>Agency website — polished version</sub></td><td><code>HTML</code> <code>CSS</code> <code>JS</code></td><td><a href="https://github.com/Shawon986/Eureka-Website"><img src="https://img.shields.io/badge/Repo-%23181717?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+<tr><td align="center" width="52">✈️</td><td><b>Realtime Flight Tracker</b><br/><sub>Live flight tracking app</sub></td><td><code>JS</code> <code>API</code></td><td><a href="https://github.com/Shawon986/Flight-Tracker"><img src="https://img.shields.io/badge/Repo-%23181717?style=flat-square&logo=github&logoColor=white"/></a></td></tr>
+</table>
 
 </div>
 
@@ -119,6 +128,17 @@
 ---
 
 
+
+
+<div align="center">
+
+## ⚡ Contribution Graph:
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shawon986&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
 
 
 <div align="center">
