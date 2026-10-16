@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="14" viewBox="0 0 1200 14">
-  <defs>
-    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#33ff66" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#33ff66">
-        <animate attributeName="stop-color" values="#33ff66;#00e5ff;#b388ff;#33ff66" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#33ff66" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect x="150" y="6" width="900" height="2" fill="url(#dg)"/>
-  <circle cx="600" cy="7" r="3" fill="#33ff66"><animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <rect width="1200" height="90" fill="#030703"/>
+  <g font-family="monospace" font-size="20" fill="#33ff66">
+    <text x="40" y="70" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.2s" begin="0.0s" repeatCount="indefinite"/>カタカナ</text>
+    <text x="130" y="40" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="1.9s" begin="0.3s" repeatCount="indefinite"/>01010</text>
+    <text x="220" y="75" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.5s" begin="0.1s" repeatCount="indefinite"/>111</text>
+    <text x="310" y="55" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.0s" begin="0.6s" repeatCount="indefinite"/>マトリ</text>
+    <text x="400" y="80" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.3s" begin="0.2s" repeatCount="indefinite"/>010</text>
+    <text x="490" y="45" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="1.8s" begin="0.5s" repeatCount="indefinite"/>クス</text>
+    <text x="580" y="70" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.4s" begin="0.15s" repeatCount="indefinite"/>01010</text>
+    <text x="670" y="50" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.1s" begin="0.4s" repeatCount="indefinite"/>ネオン</text>
+    <text x="760" y="78" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.6s" begin="0.25s" repeatCount="indefinite"/>011</text>
+    <text x="850" y="42" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="1.7s" begin="0.55s" repeatCount="indefinite"/>サイ</text>
+    <text x="940" y="72" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.2s" begin="0.35s" repeatCount="indefinite"/>0101</text>
+    <text x="1030" y="56" opacity="0.8"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="1.9s" begin="0.45s" repeatCount="indefinite"/>バー</text>
+    <text x="1120" y="80" opacity="0.85"><animateTransform attributeName="transform" type="translate" values="0 0;0 -80" dur="2.4s" begin="0.05s" repeatCount="indefinite"/>010</text>
+  </g>
+  <rect x="150" y="44" width="900" height="2" fill="#1d5c2a"/>
 </svg>

@@ -12,14 +12,7 @@
 
 </div>
 
-<div align="center">
 
-# 💫 About Me: 
-<h2 align="center">Hi 👋, I'm Shawon</h2>
-
-🔭 I’m currently working on Backend<br>👯 I’m looking to collaborate on MERN Stack<br>🤝 I’m looking for help with AI Development<br>🌱 I’m currently learning Backend Technologies<br>💬 Talk to me with Tech Topics<br>⚡ I am also a Lead Guitarist 
-
-</div>
 
 
 <div align="center">
@@ -32,6 +25,13 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=600&color=33FF66&center=true&vCenter=true&width=640&lines=root%40shawon%3A~%24+whoami;AI+API+Gateway+Builder;Full-Stack+Developer;Robotics+Explorer;hacking+the+future...%E2%96%88" alt="Typing SVG" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/boot-panel.svg" alt="System Initialization" width="86%"/>
 
 </div>
 
@@ -92,6 +92,13 @@
 ## 🏆 Achievements // System Status:
 
 <img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/status-hud.svg" alt="Status HUD" width="86%"/>
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/radar.svg" alt="Signal Scanner" width="86%"/>
+
+</div>
 
 </div><div align="center">
 

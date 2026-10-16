@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250">
+  <rect width="760" height="250" rx="14" fill="#050a07" stroke="#1d5c2a" stroke-width="2"/>
+  <text x="30" y="46" font-family="monospace" font-size="22" fill="#33ff66" font-weight="bold">SYSTEM INITIALIZATION</text>
+  <text x="30" y="70" font-family="monospace" font-size="13" fill="#2e7d3a">booting core modules... do not disconnect</text>
+  <g font-family="monospace" font-size="15">
+    <text x="30" y="112" fill="#9dffb0">CORE.EXEC ..........</text>
+    <rect x="30" y="122" width="700" height="10" fill="#0f2a14"/>
+    <rect x="30" y="122" width="0" height="10" fill="#33ff66"><animate attributeName="width" values="0;700;700" keyTimes="0;0.7;1" dur="5s" repeatCount="indefinite"/></rect>
+    <text x="30" y="158" fill="#9dffb0">NEURAL.LINK ........</text>
+    <rect x="30" y="168" width="700" height="10" fill="#0f2a14"/>
+    <rect x="30" y="168" width="0" height="10" fill="#00e5ff"><animate attributeName="width" values="0;640;640" keyTimes="0;0.7;1" dur="5s" begin="0.4s" repeatCount="indefinite"/></rect>
+    <text x="30" y="204" fill="#9dffb0">GATEWAY.API ........</text>
+    <rect x="30" y="214" width="700" height="10" fill="#0f2a14"/>
+    <rect x="30" y="214" width="0" height="10" fill="#b388ff"><animate attributeName="width" values="0;700;700" keyTimes="0;0.7;1" dur="5s" begin="0.8s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="730" y="240" font-family="monospace" font-size="13" fill="#33ff66" text-anchor="end">READY █</text>
+</svg>
