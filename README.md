@@ -34,11 +34,7 @@
 <img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/about-card.svg" alt="Identity Card" width="80%"/>
 
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/skill-radar.svg" alt="Skill Radar" width="44%"/>
-
-</div>
 
 </div>
 
@@ -52,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/boot-panel.svg" alt="System Initialization" width="86%"/>
+
 
 </div>
 
@@ -124,7 +120,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/work-bars.svg" alt="Project Energy" width="86%"/>
+
 
 </div>
 
@@ -224,7 +220,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shawon986/Shawon986/main/assets/holo-cube.svg" alt="Holo Cube" width="46%"/>
+
 
 </div>
 
