@@ -178,12 +178,20 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shawon986&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=shawon986&theme=neon&hide_border=false)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon986&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Shawon986&theme=neon&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=Shawon986&theme=neon&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shawon986&theme=neon&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
   
 
 </div>
